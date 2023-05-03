@@ -4,9 +4,9 @@ I'm a software developer at Infinerotech in Owerri, Nigeria 🌆
 
 - 🧱 I’m currently working on [RiffSwitch](https://github.com/kenresoft/riff_switch).
 
-- 🔭 I maintain other cool libraries like: [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator), [chat_shape](https://github.com/kenresoft/chat_shape), and [fontresoft](https://github.com/kenresoft/fontresoft).
+- 🔭 I maintain other cool libraries like: [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator), [fontresoft](https://github.com/kenresoft/fontresoft)(currently not public) and [chat_shape](https://github.com/kenresoft/chat_shape).
 
-- 🌱 I’m learning to get even better and be the best in all that I do currently.
+- 🌱 I’m learning to get even better and be the best in all that I do presently.
 
 - 🧑‍💻 I’m looking to collaborate on open source projects.
 
