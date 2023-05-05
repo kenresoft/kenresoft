@@ -2,9 +2,9 @@
 
 I'm a software developer at Infinerotech in Owerri, Nigeria 🌆
 
-- 🧱 I’m currently working on [RiffSwitch](https://github.com/kenresoft/riff_switch).
+- 🧱 I’m currently working on [text_animator](https://github.com/kenresoft/text_animator).
 
-- 🔭 I maintain other cool libraries like: [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator), [fontresoft](https://github.com/kenresoft/fontresoft)(currently not public) and [chat_shape](https://github.com/kenresoft/chat_shape).
+- 🔭 I maintain other cool libraries like: [riff_switch](https://github.com/kenresoft/riff_switch), [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator), [fontresoft](https://github.com/kenresoft/fontresoft)(currently not public) and [chat_shape](https://github.com/kenresoft/chat_shape).
 
 - 🌱 I’m learning to get even better and be the best in all that I do presently.
 
