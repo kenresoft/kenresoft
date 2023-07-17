@@ -16,6 +16,8 @@ I'm a software developer at Infinerotech in Owerri, Nigeria 🌆
 
 - ⚡ Fun fact: I like nature and space so much that I would like to go to moon to work on my next project. ✨
 
+- 💞️ Enhancing my Data Analytics and Machine Learning skills.
+
 <!--- 
 - 👋
 - 👀
