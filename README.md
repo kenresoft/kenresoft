@@ -10,7 +10,7 @@ I'm a software developer at Infinerotech in Owerri, Nigeria 🌆
 
 - 🧑‍💻 I’m looking to collaborate on open source projects.
 
-- 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Android](https://developer.android.com), [Jetpack Compose](https://developer.android.com/jetpack/compose), [Java](https://dev.java/), and [Kotlin](https://kotlinlang.org/).
+- 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Android](https://developer.android.com), [Jetpack Compose](https://developer.android.com/jetpack/compose), [Java](https://dev.java/), [Kotlin](https://kotlinlang.org/), and [Python](https://www.python.org/).
 
 - 😄 Pronouns: he/him/his.
 
