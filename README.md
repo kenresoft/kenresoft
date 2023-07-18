@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer at Infinerotech in Owerri, Nigeria 🌆
+I'm currently a Mobile Engineer at Kenvent IT in Kolkata 🌆
 
 - 🧱 I’m currently working on [text_animator](https://github.com/kenresoft/text_animator).
 
@@ -16,7 +16,7 @@ I'm a software developer at Infinerotech in Owerri, Nigeria 🌆
 
 - ⚡ Fun fact: I like nature and space so much that I would like to go to moon to work on my next project. ✨
 
-- 💞️ Enhancing my Data Analytics and Machine Learning skills.
+- 💞️ Enhancing my AI skills through Data Analytics and Machine Learning.
 
 <!--- 
 - 👋
