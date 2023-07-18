@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 I'm currently a Mobile Engineer at Kenvent IT in Kolkata 🌆
 
@@ -10,13 +10,21 @@ I'm currently a Mobile Engineer at Kenvent IT in Kolkata 🌆
 
 - 🧑‍💻 I’m looking to collaborate on open source projects.
 
-- 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Android](https://developer.android.com), [Jetpack Compose](https://developer.android.com/jetpack/compose), [Java](https://dev.java/), [Kotlin](https://kotlinlang.org/), and [Python](https://www.python.org/).
+- 💬 Ask me about: 
+  - [Flutter](https://flutter.dev),
+  - [Dart](https://dart.dev),
+  - [Android](https://developer.android.com),
+  - [Jetpack Compose](https://developer.android.com/jetpack/compose),
+  - [Java](https://dev.java/),
+  - [Kotlin](https://kotlinlang.org/), and
+  - [Python](https://www.python.org/).
 
 - 😄 Pronouns: he/him/his.
 
+- 💞️ Enhancing my AI skills through Data Analytics and Machine Learning.
+
 - ⚡ Fun fact: I like nature and space so much that I would like to go to moon to work on my next project. ✨
 
-- 💞️ Enhancing my AI skills through Data Analytics and Machine Learning.
 
 <!--- 
 - 👋
