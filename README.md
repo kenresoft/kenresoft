@@ -19,9 +19,9 @@ I'm currently a Mobile Engineer at Kenvent IT in Kolkata 🌆
   - [Kotlin](https://kotlinlang.org/), and
   - [Python](https://www.python.org/).
 
-- 😄 Pronouns: he/him/his.
-
 - 💞️ Enhancing my AI skills through Data Analytics and Machine Learning.
+
+- 😄 Pronouns: he/him/his.
 
 - ⚡ Fun fact: I like nature and space so much that I would like to go to moon to work on my next project. ✨
 
