@@ -17,7 +17,7 @@ I'm currently a Mobile Engineer at Kenvent IT in Kolkata 🌆
   - [Jetpack Compose](https://developer.android.com/jetpack/compose),
   - [Java](https://dev.java/),
   - [Kotlin](https://kotlinlang.org/),
-  - PHP(https://www.php.net/), and
+  - [PHP](https://www.php.net/), and
   - [Python](https://www.python.org/).
 
 - 💞️ Enhancing my AI skills through Data Analytics and Machine Learning.
