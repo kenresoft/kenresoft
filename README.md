@@ -4,7 +4,7 @@ I'm currently a Mobile Engineer at Kenvent IT in Kolkata 🌆
 
 - 🧱 I’m currently working on [text_animator](https://github.com/kenresoft/text_animator).
 
-- 🔭 I maintain other cool libraries like: [riff_switch](https://github.com/kenresoft/riff_switch), [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator), [fontresoft](https://github.com/kenresoft/fontresoft) and [chat_shape](https://github.com/kenresoft/chat_shape).
+- 🔭 I maintain other cool libraries like: [riff_switch](https://pub.dev/packages/riff_switch), [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator), [fontresoft](https://github.com/kenresoft/fontresoft) and [chat_shape](https://github.com/kenresoft/chat_shape).
 
 - 🌱 I’m learning to get even better and be the best in all that I do presently.
 
@@ -25,6 +25,7 @@ I'm currently a Mobile Engineer at Kenvent IT in Kolkata 🌆
 - 😄 Pronouns: he/him/his.
 
 - ⚡ Fun fact: I like nature and space so much that I would like to go to moon to work on my next project. ✨
+- ‎ ‎‎‎  ‎   ‎ ‎ ‎ ‎![](https://komarev.com/ghpvc/?username=kenresoft)
 
 
 <!--- 
