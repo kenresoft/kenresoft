@@ -1,31 +1,40 @@
-### Hey there 👋
 
-I'm currently a Mobile Engineer at Kenvent IT in Kolkata 🌆
+## Welcome to My Profile! 👋
 
-- 🧱 I’m currently working on [text_animator](https://github.com/kenresoft/text_animator).
+I am a dedicated Mobile Engineer at Kenvent IT in Kolkata 🌆, committed to delivering high-quality mobile solutions and pushing the boundaries of technology.
 
-- 🔭 I maintain other cool libraries like: [riff_switch](https://pub.dev/packages/riff_switch), [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator), [fontresoft](https://github.com/kenresoft/fontresoft) and [chat_shape](https://github.com/kenresoft/chat_shape).
+- 🧱 Currently, I am spearheading the development of [text_animator](https://github.com/kenresoft/text_animator), an innovative tool for text animation.
 
-- 🌱 I’m learning to get even better and be the best in all that I do presently.
+- 🔭 I also steward a suite of esteemed libraries:
+    - [x] [riff_switch](https://pub.dev/packages/riff_switch) - Empowering Flutter developers with versatile switch widgets.
+    - [x] [fontresoft](https://pub.dev/packages/fontresoft) - Curating a font package with visually appealing fonts for seamless integration into projects, and enhancing typography.
+    - [x] [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator) - Facilitating seamless list navigation in Flutter applications.
+    - [x] [chat_shape](https://github.com/kenresoft/chat_shape) - Crafting bespoke chat shapes to elevate interactive UI designs.
 
-- 🧑‍💻 I’m looking to collaborate on open source projects.
+- 🌱 Constantly pursuing knowledge and refinement to excel in my field.
 
-- 💬 Ask me about: 
-  - [Flutter](https://flutter.dev),
-  - [Dart](https://dart.dev),
-  - [Android](https://developer.android.com),
-  - [Jetpack Compose](https://developer.android.com/jetpack/compose),
-  - [Java](https://dev.java/),
-  - [Kotlin](https://kotlinlang.org/),
-  - [PHP](https://www.php.net/), and
-  - [Python](https://www.python.org/).
+- 🧑‍💻 Open to collaborative opportunities on impactful open-source endeavours.
 
-- 💞️ Enhancing my AI skills through Data Analytics and Machine Learning.
+- 💬 Proficient in:
+    - [x] [Flutter](https://flutter.dev)
+    - [x] [Dart](https://dart.dev)
+    - [x] [Android](https://developer.android.com)
+    - [x] [Jetpack Compose](https://developer.android.com/jetpack/compose)
+    - [x] [Java](https://dev.java/)
+    - [x] [Kotlin](https://kotlinlang.org/)
+    - [x] [PHP](https://www.php.net/)
+    - [x] [Python](https://www.python.org/)
+
+- 💡 Committed to developing innovative and reusable tools to empower developers in the mobile ecosystem.
+
+- 💞️ Passionately augmenting my AI proficiency through Data Analytics and Machine Learning.
 
 - 😄 Pronouns: he/him/his.
 
-- ⚡ Fun fact: I like nature and space so much that I would like to go to moon to work on my next project. ✨
-- ‎ ‎‎‎  ‎   ‎ ‎ ‎ ‎![](https://komarev.com/ghpvc/?username=kenresoft)
+- ⚡ Fun fact: My fascination with nature and space fuels my ambition to contribute to cutting-edge projects, even from the moon! 🌕✨
+
+
+  - [x] ‎‎![](https://komarev.com/ghpvc/?username=kenresoft)
 
 
 <!--- 
