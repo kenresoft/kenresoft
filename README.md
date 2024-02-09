@@ -6,12 +6,16 @@ I am a dedicated Mobile Engineer at Kenvent IT in Kolkata 🌆, committed to del
 - 🧱 Currently, I am spearheading the development of [text_animator](https://github.com/kenresoft/text_animator), an innovative tool for text animation.
 
 - 🔭 I also steward a suite of esteemed libraries:
-    <div><span style="color:green; cursor: help;" title="This library is available on pub.dev">&#10003;</span> <a href="https://pub.dev/packages/riff_switch">riff_switch</a> - Empowering Flutter developers with versatile switch widgets.</div>
-    <div><span style="color:green; cursor: help;" title="This library is available on pub.dev">&#10003;</span> <a href="https://pub.dev/packages/fontresoft">fontresoft</a> - Curating a font package with visually appealing fonts for seamless integration into projects, and enhancing typography.</div>
-    <div><span style="color:green; cursor: help;" title="This library is available on pub.dev">&#10003;</span> <a href="https://pub.dev/packages/extensionresoft">extensionresoft</a> - Enhancing productivity and improving code readability through a collection of useful extensions.</div>
-    <div><span style="color:orange; cursor: help;" title="This library is available on GitHub">&#10003;</span> <a href="https://github.com/kenresoft/flutter_list_navigator">jump_list_navigator</a> - Facilitating seamless list navigation in Flutter applications.</div>
-    <div><span style="color:orange; cursor: help;" title="This library is available on GitHub">&#10003;</span> <a href="https://github.com/kenresoft/chat_shape">chat_shape</a> - Crafting bespoke chat shapes to elevate interactive UI designs.</div>
 
+    <p cursor: help;" title="This library is available on pub.dev"><span style="color:green;">&#10064;</span> <a href="https://pub.dev/packages/riff_switch">riff_switch</a> - Empowering Flutter developers with versatile switch widgets.</p>
+    
+    <p cursor: help;" title="This library is available on pub.dev"><span style="color:green;">&#10064;</span> <a href="https://pub.dev/packages/fontresoft">fontresoft</a> - Curating a font package with visually appealing fonts for seamless integration into projects, and enhancing typography.</p>
+    
+    <p cursor: help;" title="This library is available on pub.dev"><span style="color:green;">&#10064;</span> <a href="https://pub.dev/packages/extensionresoft">extensionresoft</a> - Enhancing productivity and improving code readability through a collection of useful extensions.</p>
+    
+    <p cursor: help;" title="This library is NOT yet available on pub.dev"><span style="color:orange;">&#10063;</span> <a href="https://github.com/kenresoft/flutter_list_navigator">jump_list_navigator</a> - Facilitating seamless list navigation in Flutter applications.</p>
+    
+    <p cursor: help;" title="This library is NOT yet available on pub.dev"><span style="color:orange;">&#10063;</span> <a href="https://github.com/kenresoft/chat_shape">chat_shape</a> - Crafting bespoke chat shapes to elevate interactive UI designs.</p>
 
 - 🌱 Constantly pursuing knowledge and refinement to excel in my field.
 
