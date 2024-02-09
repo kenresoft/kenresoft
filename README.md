@@ -6,10 +6,12 @@ I am a dedicated Mobile Engineer at Kenvent IT in Kolkata 🌆, committed to del
 - 🧱 Currently, I am spearheading the development of [text_animator](https://github.com/kenresoft/text_animator), an innovative tool for text animation.
 
 - 🔭 I also steward a suite of esteemed libraries:
-    - [x] [riff_switch](https://pub.dev/packages/riff_switch) - Empowering Flutter developers with versatile switch widgets.
-    - [x] [fontresoft](https://pub.dev/packages/fontresoft) - Curating a font package with visually appealing fonts for seamless integration into projects, and enhancing typography.
-    - [x] [jump_list_navigator](https://github.com/kenresoft/flutter_list_navigator) - Facilitating seamless list navigation in Flutter applications.
-    - [x] [chat_shape](https://github.com/kenresoft/chat_shape) - Crafting bespoke chat shapes to elevate interactive UI designs.
+    <div><span style="color:green; cursor: help;" title="This library is available on pub.dev">&#10003;</span> <a href="https://pub.dev/packages/riff_switch">riff_switch</a> - Empowering Flutter developers with versatile switch widgets.</div>
+    <div><span style="color:green; cursor: help;" title="This library is available on pub.dev">&#10003;</span> <a href="https://pub.dev/packages/fontresoft">fontresoft</a> - Curating a font package with visually appealing fonts for seamless integration into projects, and enhancing typography.</div>
+    <div><span style="color:green; cursor: help;" title="This library is available on pub.dev">&#10003;</span> <a href="https://pub.dev/packages/extensionresoft">extensionresoft</a> - Enhancing productivity and improving code readability through a collection of useful extensions.</div>
+    <div><span style="color:orange; cursor: help;" title="This library is available on GitHub">&#10003;</span> <a href="https://github.com/kenresoft/flutter_list_navigator">jump_list_navigator</a> - Facilitating seamless list navigation in Flutter applications.</div>
+    <div><span style="color:orange; cursor: help;" title="This library is available on GitHub">&#10003;</span> <a href="https://github.com/kenresoft/chat_shape">chat_shape</a> - Crafting bespoke chat shapes to elevate interactive UI designs.</div>
+
 
 - 🌱 Constantly pursuing knowledge and refinement to excel in my field.
 
@@ -33,8 +35,7 @@ I am a dedicated Mobile Engineer at Kenvent IT in Kolkata 🌆, committed to del
 
 - ⚡ Fun fact: My fascination with nature and space fuels my ambition to contribute to cutting-edge projects, even from the moon! 🌕✨
 
-
-  - [x] ‎‎![](https://komarev.com/ghpvc/?username=kenresoft)
+‎‎![](https://komarev.com/ghpvc/?username=kenresoft)
 
 
 <!--- 
