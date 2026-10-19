@@ -18,11 +18,16 @@ I enjoy solving real engineering problems—the kind that surface on low-end dev
 
 ---
 
-## 📱 Currently Building
+## 🏢 Kenresoft Technologies Ltd
 
-A personal productivity app designed to become an intelligent daily companion, built with **Clean Architecture** and a strong focus on **performance**, **privacy**, and **security**.
+I run [Kenresoft Technologies Ltd](https://kenresoft.com), where we build mobile apps, websites and developer tools.
 
-**Status:** Store-ready, launching soon 🚀 — details under wraps until release.
+- **[Phunplan](https://kenresoft.com/portfolio/phunplan/)**: a Flutter app for planning and booking activities, on [Google Play](https://play.google.com/store/apps/details?id=com.phunplan.phunplan) and the [App Store](https://apps.apple.com/app/phunplan/id6763565579).
+- **[Kostunex](https://kenresoft.com/apps/kostunex/)**: a local music player for Android, currently in closed testing on Google Play.
+- **[Kenresoft CMS](https://kenresoft.com/portfolio/kenresoft-cms/)**: a self-hosted, API-first CMS on Cloudflare Workers, D1 and R2. [Source on GitHub](https://github.com/kenresoft/kenresoft-cms).
+- **[Pathveragroup](https://pathveragroup.co.uk/)**: a corporate website for a UK education group.
+
+More at [kenresoft.com/portfolio](https://kenresoft.com/portfolio/).
 
 ---
 
@@ -72,67 +77,26 @@ I've built and shipped production mobile applications across multiple domains, i
 
 ---
 
-## 🚀 Open Source Projects
+## 🚀 Open Source
 
-Every project I publish is born from solving real production problems. My goal is to build tools that developers can confidently use in their own applications.
+Everything here comes from problems I hit in production apps.
 
----
-
-## ⚡ Project Space
-
-A growing collection of reusable Flutter engineering packages designed to simplify architecture, responsiveness, and developer productivity.
-
-### bloc_utility
-
-Utilities and abstractions that simplify Flutter BLoC development while reducing boilerplate and encouraging clean architecture.
-
-### responsive_manager
-
-A modern responsive layout solution built as a lightweight alternative to **flutter_screenutil**, inspired by lessons learned from production applications. It focuses on predictable scaling, cleaner APIs, and simple integration while delivering excellent performance. It is already powering multiple live production Flutter applications.
-
-🔗 https://github.com/kenresoft/project_space
-
----
-
-## ⚡ Screen Scaler
-
-A lightweight responsive scaling package that helps Flutter applications maintain consistent sizing across phones, tablets, desktop, and larger displays—without unnecessary complexity.
-
-🔗 https://github.com/kenresoft/screen_scaler
-
----
-
-## ✍️ Lightweight Rich Editor
-
-> **Experimental project — actively under development**
-
-A lightweight rich text editor for Flutter, currently focused on building a fast and extensible editing foundation. Advanced rich text capabilities are planned as the project evolves.
-
-Current focus:
-
-- Performance
-- Large document editing
-- Clean architecture
-- Extensibility
-- Developer experience
-
-🔗 https://github.com/kenresoft/lightweight_rich_editor
-
----
-
-## ⭐ Featured pub.dev Packages
+### Published on pub.dev
 
 | Package | Description |
 |---------|-------------|
-| [**extensionresoft**](https://pub.dev/packages/extensionresoft) | A comprehensive collection of Dart extensions that reduce boilerplate, improve readability, and simplify everyday Flutter development. |
-| [**payment_card**](https://pub.dev/packages/payment_card) | Elegant and customizable payment card widgets for Flutter applications. |
-| [**riff_switch**](https://pub.dev/packages/riff_switch) | Beautiful and highly customizable switch widgets for Flutter. |
+| [**lightweight_rich_editor**](https://pub.dev/packages/lightweight_rich_editor) | A fast, lightweight rich-text editor for Flutter with notebook-style ruled lines. [Source](https://github.com/kenresoft/lightweight_rich_editor) |
+| [**extensionresoft**](https://pub.dev/packages/extensionresoft) | Dart and Flutter extensions that cut boilerplate and make everyday code easier to read. [Source](https://github.com/kenresoft/extensionresoft) |
+| [**payment_card**](https://pub.dev/packages/payment_card) | Customizable payment card widgets for Flutter. |
+| [**riff_switch**](https://pub.dev/packages/riff_switch) | A highly customizable switch widget for Flutter. [Source](https://github.com/kenresoft/riff_switch) |
 
----
+### Apps and tools
 
-## 📚 Additional Open Source Projects
-
-- **jump_list_navigator** — Fast and intuitive navigation for long Flutter lists.
+- **[QuickResponse](https://github.com/kenresoft/quickresponse)**: an open-source Flutter emergency companion app.
+- **[Kenresoft CMS](https://github.com/kenresoft/kenresoft-cms)**: the self-hosted CMS behind kenresoft.com.
+- **[project_space](https://github.com/kenresoft/project_space)**: a Dart workspace of utility packages, including `bloc_utility` and `responsive_manager`.
+- **[screen_scaler](https://github.com/kenresoft/screen_scaler)**: simple responsive scaling for Flutter.
+- **jump_list_navigator**: quick navigation for long Flutter lists.
 
 ---
 
