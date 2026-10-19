@@ -6,7 +6,7 @@
 
 Building production mobile apps, the backend and AI systems behind them, and the data to measure them, at [Kenresoft Technologies Ltd](https://kenresoft.com).
 
-[Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Company on GitHub](https://github.com/kenresoft-technologies) · [Contact](mailto:hello@kenresoft.com)
+[Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [Google Play](https://play.google.com/store/apps/dev?id=9108948421349792208) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Company on GitHub](https://github.com/kenresoft-technologies) · [Contact](mailto:hello@kenresoft.com)
 
 </div>
 
@@ -43,7 +43,7 @@ Kenresoft is a mobile-first software engineering company. We design, build and r
 
 ## Apps
 
-Mobile apps we make and publish. More at [kenresoft.com/apps](https://kenresoft.com/apps/).
+Mobile apps we make and publish. More at [kenresoft.com/apps](https://kenresoft.com/apps/) and on our [Google Play developer page](https://play.google.com/store/apps/dev?id=9108948421349792208).
 
 | App | Platform | Summary |
 |-----|----------|---------|
