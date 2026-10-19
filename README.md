@@ -2,9 +2,9 @@
 
 # Kenneth Amadi
 
-**Software Engineer · [Kenresoft Technologies Ltd](https://kenresoft.com)**
+**Mobile Engineer · Flutter, Android and iOS**
 
-Production mobile apps, web platforms and backend systems, built to perform at scale and to be maintained for years.
+Building production mobile apps, and the web and backend systems behind them, at [Kenresoft Technologies Ltd](https://kenresoft.com).
 
 [Kenresoft](https://kenresoft.com) · [Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Company on GitHub](https://github.com/kenresoft-technologies) · [Contact](mailto:hello@kenresoft.com)
 
@@ -12,13 +12,28 @@ Production mobile apps, web platforms and backend systems, built to perform at s
 
 ---
 
+## About
+
+I am a mobile engineer. I build Flutter, Android and iOS applications that stay fast on low-end devices and hold up under real use, and I take them from architecture through to App Store and Google Play release.
+
+I care most about the problems that only show up in production: edge-case bugs, rendering and caching bottlenecks, and architecture decisions that have to last. My work centres on:
+
+- **Mobile architecture:** Clean Architecture, BLoC and Riverpod, structured for teams and long-lived codebases.
+- **Performance:** widget and rendering optimization, caching, API efficiency and crash-rate reduction.
+- **Release engineering:** store compliance, CI/CD and production release management.
+- **Developer tooling:** open-source Flutter packages and a self-hosted CMS that other engineers build on.
+
+I also build the web and backend systems that mobile products depend on, using TypeScript, Node.js and Cloudflare.
+
+---
+
 ## Kenresoft Technologies Ltd
 
-Kenresoft is a software engineering company. We design, build and release digital products for clients and for ourselves, and maintain open-source tooling for the Flutter and Dart community. Company repositories live at [github.com/kenresoft-technologies](https://github.com/kenresoft-technologies).
+Kenresoft is a mobile-first software engineering company. We design, build and release digital products for clients and for ourselves, and maintain open-source tooling for the Flutter and Dart community. Company repositories live at [github.com/kenresoft-technologies](https://github.com/kenresoft-technologies).
 
 | Capability | What we deliver |
 |------------|-----------------|
-| **Mobile** | Flutter, Android and iOS applications, from architecture to App Store and Google Play release. |
+| **Mobile** | Flutter, Android and iOS applications, from architecture to App Store and Google Play release. This is our core practice. |
 | **Web** | Marketing sites, corporate sites and web platforms on modern edge infrastructure. |
 | **Backend and APIs** | Node.js and TypeScript services, REST APIs, real-time systems and cloud deployment. |
 | **Developer tools** | Self-hosted platforms and open-source packages used by other engineers. |
