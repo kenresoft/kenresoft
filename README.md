@@ -1,202 +1,133 @@
 <div align="center">
 
-# 👋 Hi, I'm Kenneth Amadi
+# Kenneth Amadi
 
-### Mobile Engineer • Building AI-powered Apps
+**Mobile Engineering · AI Engineering · Backend Systems**
 
-### **Building production-ready mobile experiences, developer tools, and reusable engineering infrastructure.**
+Building production mobile apps, the backend and AI systems behind them, and the data to measure them, at [Kenresoft Technologies Ltd](https://kenresoft.com).
 
-I enjoy solving real engineering problems—the kind that surface on low-end devices, in edge-case bugs, and in architecture decisions that need to stand the test of time. My focus is building software that is **fast**, **maintainable**, **scalable**, and **developer-friendly**.
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=kenresoft&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</p>
+[Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [Google Play](https://play.google.com/store/apps/dev?id=9108948421349792208) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Company on GitHub](https://github.com/kenresoft-technologies) · [Contact](mailto:hello@kenresoft.com)
 
 </div>
 
 ---
 
-## 📱 Currently Building
+## About
 
-A personal productivity app designed to become an intelligent daily companion, built with **Clean Architecture** and a strong focus on **performance**, **privacy**, and **security**.
+I am a mobile engineer. I build Flutter, Android and iOS applications that stay fast on low-end devices and hold up under real use, and I take them from architecture through to App Store and Google Play release.
 
-**Status:** Store-ready, launching soon 🚀 — details under wraps until release.
+I care most about the problems that only show up in production: edge-case bugs, rendering and caching bottlenecks, and architecture decisions that have to last. My work centres on:
 
----
+- **Mobile architecture:** Clean Architecture, BLoC and Riverpod, structured for teams and long-lived codebases.
+- **Performance:** widget and rendering optimization, caching, API efficiency and crash-rate reduction.
+- **Release engineering:** store compliance, CI/CD and production release management.
+- **Developer tooling:** open-source Flutter packages and a self-hosted CMS that other engineers build on.
 
-## 💼 Professional Experience
-
-I've built and shipped production mobile applications across multiple domains, including booking, marketplaces, productivity, e-commerce, and social networking.
-
-### Location-Based Discovery & Booking
-
-- Interactive map-based discovery
-- Social trip planning (friend invites & shared itineraries)
-- Real-time chat powered by Socket.IO
-- Firebase Cloud Messaging for contextual push notifications
-
-### Marketplace & E-commerce
-
-- Vendor & designer portfolio browsing
-- Quote comparison workflows
-- Appointment scheduling
-- Payment integrations
-- Real-time order tracking
-
-### Social & Community Features
-
-- Real-time messaging
-- Posts, reels, comments, reactions & engagement
-- AI-powered personalized content feeds
-- Optimized video processing to reduce buffering and bandwidth consumption
-
-### Performance Engineering
-
-- Advanced caching strategies
-- API request optimization
-- Widget tree and rendering optimization
-- Crash-rate reduction
-- Large-scale state management
-
-### Release Management
-
-- Apple and Google Play Store deployment
-- Store compliance
-- App updates
-- ASO optimization
-- Production release management
-
-> *I intentionally keep client and employer names off this public profile. I'm always happy to discuss the technical challenges, architecture, and engineering decisions behind these projects.*
+Alongside mobile, I work on AI engineering and data analytics, and on the backend systems that mobile products depend on, using PHP, Node.js, PostgreSQL and Cloudflare.
 
 ---
 
-## 🚀 Open Source Projects
+## Kenresoft Technologies Ltd
 
-Every project I publish is born from solving real production problems. My goal is to build tools that developers can confidently use in their own applications.
+Kenresoft is a mobile-first software engineering company. We design, build and release digital products for clients and for ourselves, and maintain open-source tooling for the Flutter and Dart community. Company repositories live at [github.com/kenresoft-technologies](https://github.com/kenresoft-technologies).
 
----
-
-## ⚡ Project Space
-
-A growing collection of reusable Flutter engineering packages designed to simplify architecture, responsiveness, and developer productivity.
-
-### bloc_utility
-
-Utilities and abstractions that simplify Flutter BLoC development while reducing boilerplate and encouraging clean architecture.
-
-### responsive_manager
-
-A modern responsive layout solution built as a lightweight alternative to **flutter_screenutil**, inspired by lessons learned from production applications. It focuses on predictable scaling, cleaner APIs, and simple integration while delivering excellent performance. It is already powering multiple live production Flutter applications.
-
-🔗 https://github.com/kenresoft/project_space
+| Capability | What we deliver |
+|------------|-----------------|
+| **Mobile** | Flutter, Android and iOS applications, from architecture to App Store and Google Play release. This is our core practice. |
+| **Web** | Marketing sites, corporate sites and web platforms on modern edge infrastructure. |
+| **Backend and APIs** | PHP, Node.js and TypeScript services, PostgreSQL databases, REST APIs, real-time systems and cloud deployment. |
+| **AI and data** | AI engineering for mobile and web products, and data analytics that turn product usage into decisions. |
+| **Developer tools** | Self-hosted platforms and open-source packages used by other engineers. |
 
 ---
 
-## ⚡ Screen Scaler
+## Apps
 
-A lightweight responsive scaling package that helps Flutter applications maintain consistent sizing across phones, tablets, desktop, and larger displays—without unnecessary complexity.
+Mobile apps we make and publish. More at [kenresoft.com/apps](https://kenresoft.com/apps/) and on our [Google Play developer page](https://play.google.com/store/apps/dev?id=9108948421349792208).
 
-🔗 https://github.com/kenresoft/screen_scaler
+| App | Platform | Summary |
+|-----|----------|---------|
+| [**Phunplan**](https://kenresoft.com/portfolio/phunplan/) | Android, iOS | A Flutter app for planning and booking activities. On [Google Play](https://play.google.com/store/apps/details?id=com.phunplan.phunplan) and the [App Store](https://apps.apple.com/app/phunplan/id6763565579). |
+| [**Kostunex**](https://kenresoft.com/apps/kostunex/) | Android | A local music player with background playback and Bass & Boost. In closed testing on Google Play. |
+| [**Chammolx**](https://kenresoft.com/apps/chammolx/) | Mobile | An offline workspace for chemical and process engineers. Calculations state their units, assumptions and sources, and projects stay on the device. |
+| [**QuickResponse**](https://github.com/kenresoft/quickresponse) | Android, iOS | An open-source Flutter emergency companion app. |
+
+## Platform
+
+| Product | Summary |
+|---------|---------|
+| [**Kenresoft CMS**](https://kenresoft.com/portfolio/kenresoft-cms/) | A self-hosted, API-first CMS built on Cloudflare Workers, D1 and R2. You own the data, the infrastructure and the account. [Source](https://github.com/kenresoft-technologies/kenresoft-cms) |
+
+## Websites
+
+| Project | Summary |
+|---------|---------|
+| [**Pathveragroup**](https://pathveragroup.co.uk/) | A corporate website for a UK education group, built with Astro and Cloudflare, with separate routes for students, universities and employers. |
 
 ---
 
-## ✍️ Lightweight Rich Editor
+## Developer Tools
 
-> **Experimental project — actively under development**
+Packages from our work at Kenresoft. See also [kenresoft.com/portfolio](https://kenresoft.com/portfolio/#developer-tools).
 
-A lightweight rich text editor for Flutter, currently focused on building a fast and extensible editing foundation. Advanced rich text capabilities are planned as the project evolves.
-
-Current focus:
-
-- Performance
-- Large document editing
-- Clean architecture
-- Extensibility
-- Developer experience
-
-🔗 https://github.com/kenresoft/lightweight_rich_editor
-
----
-
-## ⭐ Featured pub.dev Packages
+### Published on pub.dev
 
 | Package | Description |
 |---------|-------------|
-| [**extensionresoft**](https://pub.dev/packages/extensionresoft) | A comprehensive collection of Dart extensions that reduce boilerplate, improve readability, and simplify everyday Flutter development. |
-| [**payment_card**](https://pub.dev/packages/payment_card) | Elegant and customizable payment card widgets for Flutter applications. |
-| [**riff_switch**](https://pub.dev/packages/riff_switch) | Beautiful and highly customizable switch widgets for Flutter. |
+| [**lightweight_rich_editor**](https://pub.dev/packages/lightweight_rich_editor) | A fast, lightweight rich-text editor for Flutter with notebook-style ruled lines. [Source](https://github.com/kenresoft/lightweight_rich_editor) |
+| [**extensionresoft**](https://pub.dev/packages/extensionresoft) | Dart and Flutter extensions that reduce boilerplate and make everyday code easier to read. [Source](https://github.com/kenresoft/extensionresoft) |
+
+### Open source on GitHub
+
+Not yet published to pub.dev.
+
+**[project_space](https://github.com/kenresoft/project_space)** is a Dart workspace for reusable Flutter packages, managed with Dart Pub Workspaces.
+
+| Package | Description |
+|---------|-------------|
+| [**responsive_manager**](https://github.com/kenresoft/project_space/tree/main/packages/responsive_manager) | Responsive UI scaling across phones, tablets and desktop, built as a lightweight alternative to flutter_screenutil. Includes device type detection, configuration presets, layout adapters, simple extension methods and an LRU cache to keep rebuilds low. |
+| [**bloc_utilities**](https://github.com/kenresoft/project_space/tree/main/packages/bloc_utilities) | Widgets and extensions for `flutter_bloc`: multi-value selectors, selector-listener combinations, nested and parallel selectors, and type-safe containers for selected values. |
+
+**Other repositories**
+
+
+| Project | Description |
+|---------|-------------|
+| [**screen_scaler**](https://github.com/kenresoft/screen_scaler) | A lightweight responsive scaling package for Flutter. |
+| [**masonry_sliver**](https://github.com/kenresoft-technologies/masonry_sliver) | A lazy staggered (masonry) sliver for Flutter whose scroll length stays exact. |
+| [**riff_switch**](https://github.com/kenresoft/riff_switch) | A customizable switch widget for Flutter. |
 
 ---
 
-## 📚 Additional Open Source Projects
+## Engineering
 
-- **jump_list_navigator** — Fast and intuitive navigation for long Flutter lists.
+We have shipped production mobile applications across booking, marketplaces, productivity, e-commerce and social products.
 
----
+| Area | Work |
+|------|------|
+| **Product features** | Map-based discovery, trip planning and shared itineraries, real-time chat with Socket.IO, push notifications with Firebase Cloud Messaging, vendor marketplaces, quote comparison, scheduling, payments and live order tracking. |
+| **Social and media** | Real-time messaging, posts, reels and reactions, personalized feeds, and video processing tuned to reduce buffering and bandwidth. |
+| **Performance** | Caching strategy, API request optimization, widget tree and rendering optimization, crash-rate reduction and large-scale state management. |
+| **Release management** | App Store and Google Play deployment, store compliance, ASO and production release management. |
 
-## 🎯 Current Focus
+## Technology
 
-- Engineering performant and scalable mobile applications
-- Building reusable software architecture and developer tooling
-- Creating production-ready open-source packages
-- Integrating AI into mobile experiences
-- Continuously learning and sharing engineering knowledge
-
----
-
-## 🛠 Engineering Toolkit
-
-### Mobile
-
-Flutter • Dart • Android SDK • Kotlin • Java • Jetpack Compose • iOS • SwiftUI
-
-### Backend
-
-Node.js • Express • MongoDB • PostgreSQL • MySQL • Firebase • Google Cloud Platform • REST APIs • PHP • Python • JavaScript
-
-### Architecture & Tools
-
-Clean Architecture • BLoC • Riverpod • Provider • Hive • SQLite • Git • CI/CD
+| | |
+|---|---|
+| **Mobile** | Flutter, Dart, Android SDK, Kotlin, Java, Jetpack Compose, iOS, SwiftUI |
+| **Backend** | PHP, Node.js, Express, TypeScript, Python, PostgreSQL, MySQL, MongoDB, Firebase, Google Cloud Platform, Cloudflare Workers, REST APIs |
+| **AI and data** | AI engineering, data analytics |
+| **Architecture and tooling** | Clean Architecture, BLoC, Riverpod, Provider, Hive, SQLite, Git, CI/CD |
 
 ---
 
-## ✍️ Technical Writing
+## Work With Us
 
-I enjoy sharing practical lessons from building production Flutter applications, developer tooling, and engineering reusable solutions.
+We take on mobile, web and backend projects, developer tooling and open-source collaboration.
 
----
-
-## 📊 GitHub Analytics
+[kenresoft.com](https://kenresoft.com) · [hello@kenresoft.com](mailto:hello@kenresoft.com)
 
 <p align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=kenresoft&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kenresoft&layout=compact"/>
-
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kenresoft&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kenresoft&layout=compact"/>
 </p>
-
----
-
-## 🤝 Let's Build Something Great
-
-I'm always interested in collaborating on projects involving:
-
-- Flutter Infrastructure
-- Developer Tooling
-- Mobile and Backend Architecture
-- Open Source
-
-If you're building something ambitious, I'd love to connect.
-
----
-
-<div align="center">
-
-### ❤️ Thanks for stopping by!
-
-If any of my projects help you, consider giving them a ⭐. It helps others discover them and motivates continued open-source development.
-
-</div>
