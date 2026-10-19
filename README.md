@@ -2,9 +2,9 @@
 
 # Kenneth Amadi
 
-**Software engineer. Head of [Kenresoft Technologies Ltd](https://kenresoft.com).**
+**Software Engineer · [Kenresoft Technologies Ltd](https://kenresoft.com)**
 
-I build mobile and web applications, backend systems and developer tools, and lead the team at Kenresoft that ships them.
+Production mobile apps, web platforms and backend systems, built to perform at scale and to be maintained for years.
 
 [Kenresoft](https://kenresoft.com) · [Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Company on GitHub](https://github.com/kenresoft-technologies) · [Contact](mailto:hello@kenresoft.com)
 
@@ -14,7 +14,14 @@ I build mobile and web applications, backend systems and developer tools, and le
 
 ## Kenresoft Technologies Ltd
 
-Kenresoft is a software engineering company. We design and build mobile apps, websites, backend systems and developer tools for clients, publish our own products, and maintain open-source packages for Flutter and Dart. Company repositories live at [github.com/kenresoft-technologies](https://github.com/kenresoft-technologies).
+Kenresoft is a software engineering company. We design, build and release digital products for clients and for ourselves, and maintain open-source tooling for the Flutter and Dart community. Company repositories live at [github.com/kenresoft-technologies](https://github.com/kenresoft-technologies).
+
+| Capability | What we deliver |
+|------------|-----------------|
+| **Mobile** | Flutter, Android and iOS applications, from architecture to App Store and Google Play release. |
+| **Web** | Marketing sites, corporate sites and web platforms on modern edge infrastructure. |
+| **Backend and APIs** | Node.js and TypeScript services, REST APIs, real-time systems and cloud deployment. |
+| **Developer tools** | Self-hosted platforms and open-source packages used by other engineers. |
 
 ---
 
@@ -78,7 +85,7 @@ Not yet published to pub.dev.
 
 ## Engineering
 
-I have led and shipped production mobile applications across booking, marketplaces, productivity, e-commerce and social products.
+We have shipped production mobile applications across booking, marketplaces, productivity, e-commerce and social products.
 
 | Area | Work |
 |------|------|
