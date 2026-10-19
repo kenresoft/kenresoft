@@ -2,9 +2,9 @@
 
 # Kenneth Amadi
 
-**Mobile Engineer · Flutter, Android and iOS**
+**Mobile Engineering · AI Engineering · Backend Systems**
 
-Building production mobile apps, and the web and backend systems behind them, at [Kenresoft Technologies Ltd](https://kenresoft.com).
+Building production mobile apps, the backend and AI systems behind them, and the data to measure them, at [Kenresoft Technologies Ltd](https://kenresoft.com).
 
 [Kenresoft](https://kenresoft.com) · [Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Company on GitHub](https://github.com/kenresoft-technologies) · [Contact](mailto:hello@kenresoft.com)
 
@@ -23,7 +23,7 @@ I care most about the problems that only show up in production: edge-case bugs, 
 - **Release engineering:** store compliance, CI/CD and production release management.
 - **Developer tooling:** open-source Flutter packages and a self-hosted CMS that other engineers build on.
 
-I also build the web and backend systems that mobile products depend on, using TypeScript, Node.js and Cloudflare.
+Alongside mobile, I work on AI engineering and data analytics, and on the backend systems that mobile products depend on, using PHP, Node.js, PostgreSQL and Cloudflare.
 
 ---
 
@@ -35,7 +35,8 @@ Kenresoft is a mobile-first software engineering company. We design, build and r
 |------------|-----------------|
 | **Mobile** | Flutter, Android and iOS applications, from architecture to App Store and Google Play release. This is our core practice. |
 | **Web** | Marketing sites, corporate sites and web platforms on modern edge infrastructure. |
-| **Backend and APIs** | Node.js and TypeScript services, REST APIs, real-time systems and cloud deployment. |
+| **Backend and APIs** | PHP, Node.js and TypeScript services, PostgreSQL databases, REST APIs, real-time systems and cloud deployment. |
+| **AI and data** | AI engineering for mobile and web products, and data analytics that turn product usage into decisions. |
 | **Developer tools** | Self-hosted platforms and open-source packages used by other engineers. |
 
 ---
@@ -114,7 +115,8 @@ We have shipped production mobile applications across booking, marketplaces, pro
 | | |
 |---|---|
 | **Mobile** | Flutter, Dart, Android SDK, Kotlin, Java, Jetpack Compose, iOS, SwiftUI |
-| **Backend** | Node.js, Express, TypeScript, PostgreSQL, MySQL, MongoDB, Firebase, Google Cloud Platform, Cloudflare Workers, REST APIs |
+| **Backend** | PHP, Node.js, Express, TypeScript, Python, PostgreSQL, MySQL, MongoDB, Firebase, Google Cloud Platform, Cloudflare Workers, REST APIs |
+| **AI and data** | AI engineering, data analytics |
 | **Architecture and tooling** | Clean Architecture, BLoC, Riverpod, Provider, Hive, SQLite, Git, CI/CD |
 
 ---
