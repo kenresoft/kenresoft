@@ -1,39 +1,41 @@
 <div align="center">
 
-# Kenneth Amadi
+# Kenresoft Technologies Ltd
 
-**Mobile engineer. Founder of [Kenresoft Technologies Ltd](https://kenresoft.com).**
+**Software engineering company. Mobile and web applications, backend systems, APIs and developer tools.**
 
-I build production Flutter and Android applications, backend systems and developer tools, with a focus on performance, maintainable architecture and a good developer experience.
-
-[Website](https://kenresoft.com) · [Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Contact](mailto:hello@kenresoft.com)
+[Website](https://kenresoft.com) · [Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [Developer Tools](https://kenresoft.com/portfolio/#developer-tools) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Contact](mailto:hello@kenresoft.com)
 
 </div>
 
 ---
 
-## Kenresoft Technologies Ltd
+## About
 
-Kenresoft is a software engineering company. We design and build mobile apps, websites, backend systems and developer tools, and publish our own products and open-source packages.
+Kenresoft designs, builds and ships software for clients and for itself. We publish our own mobile apps, run a self-hosted CMS platform, and maintain open-source packages for Flutter and Dart.
 
-### Apps
+Led by **Kenneth Amadi**, Mobile Engineer.
 
-Mobile apps we make and publish. See [kenresoft.com/apps](https://kenresoft.com/apps/).
+---
+
+## Apps
+
+Mobile apps we make and publish. More at [kenresoft.com/apps](https://kenresoft.com/apps/).
 
 | App | Platform | Summary |
 |-----|----------|---------|
-| [**Phunplan**](https://kenresoft.com/portfolio/phunplan/) | Android, iOS | A Flutter app for planning and booking activities. Available on [Google Play](https://play.google.com/store/apps/details?id=com.phunplan.phunplan) and the [App Store](https://apps.apple.com/app/phunplan/id6763565579). |
-| [**Kostunex**](https://kenresoft.com/apps/kostunex/) | Android | A local music player with a background playback service and Bass & Boost. In closed testing on Google Play. |
+| [**Phunplan**](https://kenresoft.com/portfolio/phunplan/) | Android, iOS | A Flutter app for planning and booking activities. On [Google Play](https://play.google.com/store/apps/details?id=com.phunplan.phunplan) and the [App Store](https://apps.apple.com/app/phunplan/id6763565579). |
+| [**Kostunex**](https://kenresoft.com/apps/kostunex/) | Android | A local music player with background playback and Bass & Boost. In closed testing on Google Play. |
 | [**Chammolx**](https://kenresoft.com/apps/chammolx/) | Mobile | An offline workspace for chemical and process engineers. Calculations state their units, assumptions and sources, and projects stay on the device. |
 | [**QuickResponse**](https://github.com/kenresoft/quickresponse) | Android, iOS | An open-source Flutter emergency companion app. |
 
-### Platform
+## Platform
 
 | Product | Summary |
 |---------|---------|
 | [**Kenresoft CMS**](https://kenresoft.com/portfolio/kenresoft-cms/) | A self-hosted, API-first CMS built on Cloudflare Workers, D1 and R2. You own the data, the infrastructure and the account. [Source](https://github.com/kenresoft-technologies/kenresoft-cms) |
 
-### Websites
+## Websites
 
 | Project | Summary |
 |---------|---------|
@@ -41,24 +43,38 @@ Mobile apps we make and publish. See [kenresoft.com/apps](https://kenresoft.com/
 
 ---
 
-## Open-Source Packages
+## Developer Tools
 
-Published on [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) and built from problems we met in production apps.
+### Published on pub.dev
 
 | Package | Description |
 |---------|-------------|
 | [**lightweight_rich_editor**](https://pub.dev/packages/lightweight_rich_editor) | A fast, lightweight rich-text editor for Flutter with notebook-style ruled lines. [Source](https://github.com/kenresoft/lightweight_rich_editor) |
-| [**extensionresoft**](https://pub.dev/packages/extensionresoft) | A collection of Dart and Flutter extensions that reduce boilerplate and make everyday code easier to read. [Source](https://github.com/kenresoft/extensionresoft) |
-| [**payment_card**](https://pub.dev/packages/payment_card) | Customizable payment card widgets for Flutter. |
-| [**riff_switch**](https://pub.dev/packages/riff_switch) | A highly customizable switch widget for Flutter. [Source](https://github.com/kenresoft/riff_switch) |
+| [**extensionresoft**](https://pub.dev/packages/extensionresoft) | Dart and Flutter extensions that reduce boilerplate and make everyday code easier to read. [Source](https://github.com/kenresoft/extensionresoft) |
 
-Also on GitHub: [project_space](https://github.com/kenresoft/project_space), a Dart workspace of utility packages including `bloc_utility` and `responsive_manager`, and [screen_scaler](https://github.com/kenresoft/screen_scaler), a simple responsive scaling package.
+### Open source on GitHub
+
+Not yet published to pub.dev.
+
+**[project_space](https://github.com/kenresoft/project_space)** is a Dart workspace for reusable Flutter packages, managed with Dart Pub Workspaces.
+
+| Package | Description |
+|---------|-------------|
+| [**responsive_manager**](https://github.com/kenresoft/project_space/tree/main/packages/responsive_manager) | Responsive UI scaling across phones, tablets and desktop, built as a lightweight alternative to flutter_screenutil. Includes device type detection, configuration presets, layout adapters, simple extension methods and an LRU cache to keep rebuilds low. |
+| [**bloc_utilities**](https://github.com/kenresoft/project_space/tree/main/packages/bloc_utilities) | Widgets and extensions for `flutter_bloc`: multi-value selectors, selector-listener combinations, nested and parallel selectors, and type-safe containers for selected values. |
+
+**Other repositories**
+
+| Project | Description |
+|---------|-------------|
+| [**screen_scaler**](https://github.com/kenresoft/screen_scaler) | A lightweight responsive scaling package for Flutter. |
+| [**riff_switch**](https://github.com/kenresoft/riff_switch) | A customizable switch widget for Flutter. |
 
 ---
 
-## Engineering Experience
+## Engineering
 
-I have shipped production mobile applications across booking, marketplaces, productivity, e-commerce and social products.
+Our team has shipped production mobile applications across booking, marketplaces, productivity, e-commerce and social products.
 
 | Area | Work |
 |------|------|
@@ -66,8 +82,6 @@ I have shipped production mobile applications across booking, marketplaces, prod
 | **Social and media** | Real-time messaging, posts, reels and reactions, personalized feeds, and video processing tuned to reduce buffering and bandwidth. |
 | **Performance** | Caching strategy, API request optimization, widget tree and rendering optimization, crash-rate reduction and large-scale state management. |
 | **Release management** | App Store and Google Play deployment, store compliance, ASO and production release management. |
-
----
 
 ## Technology
 
