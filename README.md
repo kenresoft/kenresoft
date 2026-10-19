@@ -24,6 +24,7 @@ I run [Kenresoft Technologies Ltd](https://kenresoft.com), where we build mobile
 
 - **[Phunplan](https://kenresoft.com/portfolio/phunplan/)**: a Flutter app for planning and booking activities, on [Google Play](https://play.google.com/store/apps/details?id=com.phunplan.phunplan) and the [App Store](https://apps.apple.com/app/phunplan/id6763565579).
 - **[Kostunex](https://kenresoft.com/apps/kostunex/)**: a local music player for Android, currently in closed testing on Google Play.
+- **[Chammolx](https://kenresoft.com/apps/chammolx/)**: an offline workspace for chemical and process engineers. Calculations show their units, assumptions and sources, and projects stay on the device.
 - **[Kenresoft CMS](https://kenresoft.com/portfolio/kenresoft-cms/)**: a self-hosted, API-first CMS on Cloudflare Workers, D1 and R2. [Source on GitHub](https://github.com/kenresoft/kenresoft-cms).
 - **[Pathveragroup](https://pathveragroup.co.uk/)**: a corporate website for a UK education group.
 
