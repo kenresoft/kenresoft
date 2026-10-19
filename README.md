@@ -1,20 +1,20 @@
 <div align="center">
 
-# Kenresoft Technologies Ltd
+# Kenneth Amadi
 
-**Software engineering company. Mobile and web applications, backend systems, APIs and developer tools.**
+**Software engineer. Head of [Kenresoft Technologies Ltd](https://kenresoft.com).**
 
-[Website](https://kenresoft.com) · [Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [Developer Tools](https://kenresoft.com/portfolio/#developer-tools) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Contact](mailto:hello@kenresoft.com)
+I build mobile and web applications, backend systems and developer tools, and lead the team at Kenresoft that ships them.
+
+[Kenresoft](https://kenresoft.com) · [Portfolio](https://kenresoft.com/portfolio/) · [Apps](https://kenresoft.com/apps/) · [pub.dev](https://pub.dev/publishers/kenresoft.com/packages) · [Company on GitHub](https://github.com/kenresoft-technologies) · [Contact](mailto:hello@kenresoft.com)
 
 </div>
 
 ---
 
-## About
+## Kenresoft Technologies Ltd
 
-Kenresoft designs, builds and ships software for clients and for itself. We publish our own mobile apps, run a self-hosted CMS platform, and maintain open-source packages for Flutter and Dart.
-
-Led by **Kenneth Amadi**, Mobile Engineer.
+Kenresoft is a software engineering company. We design and build mobile apps, websites, backend systems and developer tools for clients, publish our own products, and maintain open-source packages for Flutter and Dart. Company repositories live at [github.com/kenresoft-technologies](https://github.com/kenresoft-technologies).
 
 ---
 
@@ -45,6 +45,8 @@ Mobile apps we make and publish. More at [kenresoft.com/apps](https://kenresoft.
 
 ## Developer Tools
 
+Packages from our work at Kenresoft. See also [kenresoft.com/portfolio](https://kenresoft.com/portfolio/#developer-tools).
+
 ### Published on pub.dev
 
 | Package | Description |
@@ -65,16 +67,18 @@ Not yet published to pub.dev.
 
 **Other repositories**
 
+
 | Project | Description |
 |---------|-------------|
 | [**screen_scaler**](https://github.com/kenresoft/screen_scaler) | A lightweight responsive scaling package for Flutter. |
+| [**masonry_sliver**](https://github.com/kenresoft-technologies/masonry_sliver) | A lazy staggered (masonry) sliver for Flutter whose scroll length stays exact. |
 | [**riff_switch**](https://github.com/kenresoft/riff_switch) | A customizable switch widget for Flutter. |
 
 ---
 
 ## Engineering
 
-Our team has shipped production mobile applications across booking, marketplaces, productivity, e-commerce and social products.
+I have led and shipped production mobile applications across booking, marketplaces, productivity, e-commerce and social products.
 
 | Area | Work |
 |------|------|
